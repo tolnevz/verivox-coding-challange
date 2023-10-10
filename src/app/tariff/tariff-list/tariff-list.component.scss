@@ -1,3 +1,11 @@
+.title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.title-h3 {
+  font-size: 23px;
+  font-weight: 600;
+}
 .tariff-speed {
   font-size: 32px;
   font-weight: 600;
@@ -5,5 +13,16 @@
   .speed-size {
     font-size: 12px;
     font-weight: 400;
+  }
+}
+@media screen and (max-width: 576px) {
+  .title {
+    font-size: 16px;
+  }
+  .title-h3 {
+    font-size: 18px;
+  }
+  .tariff-speed {
+    font-size: 20px;
   }
 }
