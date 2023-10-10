@@ -1,0 +1,8 @@
+{
+  "id": 4894,
+  "name": "Tariff Name",
+  "downloadSpeed": 12,
+  "uploadSpeed": 6,
+  "benefits": ["Tariff Benefit 1", "Tariff Benefit 2", "Tariff Benefit 3", "Tariff Benefit 4"],
+  "price": 123.45
+}
